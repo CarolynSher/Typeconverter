@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Typeconverter</string>
+    <string name="action_settings">Save</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="title_activity_main_detail">MainDetailActivity</string>
+</resources>
